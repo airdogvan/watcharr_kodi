@@ -3,7 +3,7 @@ script.watcharr
 
 Kodi plugin for [Watchrr] https://github.com/sbondCo/Watcharr
 
-This plugin will mark TV shows episodes or movies you've seen as watched on yourinstance of Watcharr .
+This plugin will mark TV shows episodes or movies you've seen as watched on your instance of Watcharr.
 It will also add the the TV show or movie to your account if it was not already there.
 
 
