@@ -14,4 +14,18 @@
             <platform>all</platform>
         </extension>
     </addon>
+    <addon id="script.watcharr-matrix" name="Watcharr Matrix" version="1.0.0" provider-name="airdogvan">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0"/>
+            <!-- Include any other add-ons your add-on depends on here -->
+        </requires>
+        <extension point="xbmc.python.pluginsource" library="default.py">
+            <provides>service</provides>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary lang="en_GB">Logs videos as viewed in Watcharr for Kodi Matrix</summary>
+            <description lang="en_GB">This add-on logs videos as viewed in Watcharr for Kodi Matrix.</description>
+            <platform>all</platform>
+        </extension>
+    </addon>
 </addons>
